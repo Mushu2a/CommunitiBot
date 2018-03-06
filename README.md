@@ -15,7 +15,7 @@ BotMan is free software distributed under the terms of the MIT license.
 
 ## Why ?
 
-[https://www.universita.corsica/fr/hack4corsica-1er-hackathon-de-luniversite-de-corse](Hackaton 2018), first for university of Corsica, first for me too.
+[https://www.universita.corsica/fr/hack4corsica-1er-hackathon-de-luniversite-de-corse](Hackaton_2018), first for university of Corsica, first for me too.
 
 Project:
 [https://www.communiti.corsica](Communiti) want on a chatbot use with there API and basics question.
